@@ -1,0 +1,1 @@
+console.log('This 2.js is loaded.')
